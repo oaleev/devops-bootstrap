@@ -1,0 +1,8 @@
+additional:
+  packages:
+    - openjdk-17-jre-headless
+    - openjdk-17-jdk-headless
+    - maven
+
+carts:
+  artifact: https://ab-build-artifacts.s3.ap-south-1.amazonaws.com/udbc/carts.jar

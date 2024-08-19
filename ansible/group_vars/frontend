@@ -1,0 +1,4 @@
+frontend:
+  release:
+    url: https://ab-build-artifacts.s3.ap-south-1.amazonaws.com/udbc/frontend-0.0.1.zip
+    version: 0.0.1
